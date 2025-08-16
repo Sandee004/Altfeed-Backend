@@ -11,3 +11,5 @@ requests==2.32.3
 SQLAlchemy==2.0.35
 Werkzeug==3.0.4
 yarl==1.18.0
+flask-swagger-ui==4.11.1
+flasgger==0.9.7.1
